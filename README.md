@@ -10,10 +10,10 @@
 - **Supported Game Versions:** *Steam, Game Launcher*  
 - **Built-in Spoofer:** ✅ Yes  
 - **Anti-Cheat:** *NetEasy*  
-- **OBS Recording Bypass:** ❌ No  
+- **OBS Recording Bypass:** ✅ Yes 
 - **Game Mode:** *Windowed*  
-- **Supported CPUs:** *Intel & AMD (min. i5-10400 / Ryzen 5 2600)*  
-- **Operating Systems:** *Windows 10 (21H2-23H2), Windows 11*  
+- **Supported CPUs:** *Intel & AMD*  
+- **Operating Systems:** *Windows 10  Windows 11*  
 
 ---
 
